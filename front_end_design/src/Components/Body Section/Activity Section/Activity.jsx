@@ -4,7 +4,7 @@ import './activity.css'
 
 
 // Imported Images =======>
-import img1 from '../../../Assets/admin.png'
+import img1 from '../../../Assets/profile2.jpg'
 
 
 

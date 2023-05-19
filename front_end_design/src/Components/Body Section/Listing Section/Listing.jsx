@@ -3,15 +3,14 @@ import './listing.css'
 
 
 // Imported Images =======>
-import img from '../../../Assets/pic10.png'
-import img1 from '../../../Assets/pic7.png'
-import img2 from '../../../Assets/pic9.png'
-import img3 from '../../../Assets/pic10.png'
-import img4 from '../../../Assets/pic11.png'
-import img5 from '../../../Assets/pic12.png'
-import img6 from '../../../Assets/skill_icon7.png'
-import img7 from '../../../Assets/skill_icon8.png'
-import img8 from '../../../Assets/admin.png'
+import img from '../../../Assets/profile1.jpg'
+import img1 from '../../../Assets/profile2.jpg'
+import img2 from '../../../Assets/profile3.jpg'
+import img3 from '../../../Assets/profile4.jpg'
+import img4 from '../../../Assets/profile5.jpg'
+import img5 from '../../../Assets/profile6.jpg'
+
+
 
 
 
@@ -39,11 +38,7 @@ const Listing = () => {
                     <h3>Men in Black</h3>
                 </div>
 
-                <div className="singleItem">
-                    <AiOutlineHeart className="icon"/>
-                    <img src={img1} alt="Image name" />
-                    <h3>Men in Black</h3>
-                </div>
+               
 
                 <div className="singleItem">
                     <AiOutlineHeart className="icon"/>
@@ -82,10 +77,10 @@ const Listing = () => {
 
                     <div className="card flex">
                         <div className="users">
-                            <img src={img8} alt="Users Name" />
-                            <img src={img8} alt="Users Name" />
-                            <img src={img8} alt="Users Name" />
-                            <img src={img8} alt="Users Name" />
+                            <img src={img1} alt="Users Name" />
+                            <img src={img1} alt="Users Name" />
+                            <img src={img1} alt="Users Name" />
+                            <img src={img1} alt="Users Name" />
                         </div>
 
                         <div className="cardText">
@@ -113,10 +108,10 @@ const Listing = () => {
 
                     <div className="card flex">
                         <div className="users">
-                            <img src={img8} alt="Users Name" />
-                            <img src={img8} alt="Users Name" />
-                            <img src={img8} alt="Users Name" />
-                            <img src={img8} alt="Users Name" />
+                            <img src={img1} alt="Users Name" />
+                            <img src={img1} alt="Users Name" />
+                            <img src={img1} alt="Users Name" />
+                            <img src={img1} alt="Users Name" />
                         </div>
 
                         <div className="cardText">

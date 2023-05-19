@@ -3,7 +3,7 @@ import './sidebar.css'
 
 
 // Imported Images =======>
-import logo  from '../../Assets/logo.png'
+
 
 // Imported Icons =======>
 import {IoMdSpeedometer} from 'react-icons/io'

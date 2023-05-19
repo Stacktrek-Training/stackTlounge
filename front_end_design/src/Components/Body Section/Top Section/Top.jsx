@@ -3,7 +3,7 @@ import './top.css'
 
 
 // Imported Images =======>
-import img from '../../../Assets/admin.png'
+import img from '../../../Assets/profile2.jpg'
 import img2 from '../../../Assets/pic7.png'
 import video from '../../../Assets/video1.mp4'
 
@@ -75,7 +75,7 @@ const Top = () => {
                         </div> 
                         
                         <div className="imgDiv">
-                            <img src={img2} alt="Image Name" />
+                        { /* <img src={img2} alt="Image Name" />r*/} 
                         </div>
                     </div>
                     { /*We used This card Later*/} 
