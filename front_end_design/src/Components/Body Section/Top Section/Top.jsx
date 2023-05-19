@@ -4,7 +4,7 @@ import './top.css'
 
 // Imported Images =======>
 import img from '../../../Assets/profile2.jpg'
-import img2 from '../../../Assets/pic7.png'
+
 import video from '../../../Assets/video1.mp4'
 
 // Imported Icons =======>
